@@ -1,0 +1,28 @@
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\bin\Debug\net8.0\ProjetMusee.exe
+C:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\bin\Debug\net8.0\ProjetMusee.deps.json
+C:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\bin\Debug\net8.0\ProjetMusee.runtimeconfig.json
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\bin\Debug\net8.0\ProjetMusee.dll
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\bin\Debug\net8.0\ProjetMusee.pdb
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.AssemblyInfoInputs.cache
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.AssemblyInfo.cs
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.csproj.CoreCompileInputs.cache
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.dll
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\refint\ProjetMusee.dll
+c:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.pdb
+C:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ProjetMusee.genruntimeconfig.cache
+C:\Users\mathi\OneDrive\Documents\ENSC\S6\Projet Musée\sui\obj\Debug\net8.0\ref\ProjetMusee.dll
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\bin\Debug\net8.0\ProjetMusee.exe
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\bin\Debug\net8.0\ProjetMusee.deps.json
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\bin\Debug\net8.0\ProjetMusee.runtimeconfig.json
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\bin\Debug\net8.0\ProjetMusee.dll
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\bin\Debug\net8.0\ProjetMusee.pdb
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.AssemblyInfo.cs
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.dll
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\refint\ProjetMusee.dll
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.pdb
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ProjetMusee.genruntimeconfig.cache
+C:\Users\mathi\Documents\ENSC\S6\PA\Projet Musée\Projet Musée\Projet Musée\obj\Debug\net8.0\ref\ProjetMusee.dll
